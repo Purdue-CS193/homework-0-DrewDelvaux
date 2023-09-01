@@ -1,3 +1,9 @@
+# Drew Delvaux's First CS193 Homework
+
+## Favorite things about CS193
+- My teachers are so coool!! 
+- I like coding.
+- Classmates are nice I guess.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
